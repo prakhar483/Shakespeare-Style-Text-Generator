@@ -10,12 +10,12 @@ The repository includes a full workflow notebook and a trained model for easy ex
 
 📦 Shakespeare-Text-Generation-RNN
 - │
-# ├── Rnn_Project2_Text_Generation_Shakespeare.ipynb # Notebook containing full workflow:
-# │ # data preprocessing, training, evaluation, text generation
-# │
-# ├── lstm_shakespeare_model.pth # Trained LSTM model saved after training
-# │
-# └── README.md # Project documentation
+- ├── Rnn_Project2_Text_Generation_Shakespeare.ipynb # Notebook containing full workflow:
+- │ # data preprocessing, training, evaluation, text generation
+- │
+- ├── lstm_shakespeare_model.pth # Trained LSTM model saved after training
+- │
+- └── README.md # Project documentation
 
 
 ---
